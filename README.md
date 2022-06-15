@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **gsparqcode@gmail.com**
 
-- 📄 Know about my experiences [https://gsaaad.github.io/Mobile-Porfolio/](https://gsaaad.github.io/Mobile-Porfolio/)
-
 - ⚡ Fun fact **Main background knowledge in Psychology&Neuroscience**
 
 <h3 align="left">Connect with me:</h3>
