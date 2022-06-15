@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsaaad" alt="gsaaad" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Certificate**
+- 🔭 Earned my Full Stack Development Certificate from University Of Toronto Bootcamp
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Python, Back-end**
 
-- 👯 I’m looking to collaborate on **Start ups**
-
-- 🤝 I’m looking for help with **Front-end**
+- 🤝 I’m looking for new challenges within Back-end
 
 - 👨‍💻 All of my projects are available at [https://gsaaad.github.io/Mobile-Porfolio/](https://gsaaad.github.io/Mobile-Porfolio/)
 
-- 📝 I regularly write in [My Journal~](My Journal~)
+- 📝 I regularly write in a Journal
 
-- 💬 Ask me about **React**
+- 💬 Ask me How I can provide Value
 
 - 📫 How to reach me **gsparqcode@gmail.com**
 
