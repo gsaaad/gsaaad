@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for new challenges within Back-end
 
-- 👨‍💻 All of my projects are available at [https://gsaaad.github.io/Mobile-Porfolio/](https://gsaaad.github.io/Mobile-Porfolio/)
+- 👨‍💻 All of my projects are available at [https://gsaaad.github.io/react-resume)
 
 - 📝 I regularly write in a Journal
 
