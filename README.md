@@ -17,7 +17,7 @@
 
 - 💬 Ask me How I can provide Value
 
-- 📫 How to reach me **gsparqcode@gmail.com**
+- 📫 How to reach me **saad.george@live.com**
 
 - ⚡ Fun fact **Main background knowledge in Psychology&Neuroscience**
 
