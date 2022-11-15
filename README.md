@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for new challenges within Back-end
 
-- 👨‍💻 All of my projects are available at [https://gsaaad.github.io/react-resume)
+- 👨‍💻 All of my projects are available within this repo, check out my exclusive projects here: [https://gsaaad.github.io/react-resume)
 
 - 📝 I regularly write in a Journal
 
@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/georgesaad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="georgesaad" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaaad&show_icons=true&locale=en&layout=compact" alt="gsaaad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaaad&show_icons=true&locale=en&layout=compact" alt="gsaaad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsaaad&show_icons=true&locale=en" alt="gsaaad" /></p>
 
