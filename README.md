@@ -4,17 +4,15 @@
 
 - 🔭 Earned my Full Stack Development Certificate from University Of Toronto Bootcamp
 
-- 🌱 I’m currently learning **React, Python, Back-end**
+- 🌱 I’m currently learning **React, Python, NodeJs, JAVA**
 
-- 🤝 I’m looking for new challenges within Back-end
+- 🤝 I’m looking for new challenges within Back-end, currently learning JAVA
 
 - 👨‍💻 All of my projects are available within this repo, check out my exclusive projects here: [https://gsaaad.github.io/react-resume)
 
 - 📝 I regularly write in a Journal
 
-- 💬 Ask me How I can provide Value
-
-- 📫 How to reach me **saad.george@live.com**
+- 💬 Ask me How I can bring new ways of analyzing data or building an application component
 
 - ⚡ Fun fact **Main background knowledge in Psychology&Neuroscience**
 
@@ -22,7 +20,6 @@
 
 <h3 align="left">Languages & Tools I am Interested In:</h3>
 <p align="left">
-
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
