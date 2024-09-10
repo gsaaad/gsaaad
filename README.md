@@ -14,7 +14,7 @@
 
 - 💬 Ask me How I can bring new ways of analyzing data or building an application component
 
-- ⚡ Fun fact **Main background knowledge in Psychology&Neuroscience**
+- ⚡ Fun fact **I have a Bachelor's of Science: Psychology & Neuroscience, Biology Minor**
 
 <h3 align="left">Languages & Tools I am Interested In:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
