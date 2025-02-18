@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsaaad" alt="gsaaad" /></a> </p>
 
-- 🔭 Earned my Full Stack Development Certificate from University Of Toronto Bootcamp
+- 🔭 Earned my Full Stack Development Certificate from the University Of Toronto
 
-- 🌱 I’m currently learning **React, Python, NodeJs, JAVA**
+- 🌱 I’m currently learning **React, Python, NodeJs, Machine Learning models [CNN, Recurrent, LSTM, FeedForward**
 
 - 🤝 I’m looking for new challenges within Back-end, currently learning JAVA
 
