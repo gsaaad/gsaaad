@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for new challenges within Back-end, currently learning JAVA
 
-- 👨‍💻 All of my projects are available within this repo, check out my exclusive projects here: [https://gsaaad.github.io/react-resume)
+- 👨‍💻 All of my projects are available
 
 - 📝 I regularly write in a Journal
 
